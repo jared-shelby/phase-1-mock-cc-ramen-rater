@@ -39,14 +39,6 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
-    },
-    {
-      "name": "Miso Ramen",
-      "restaurant": "Jared's Kitchen",
-      "image": "https://steamykitchen.com/wp-content/uploads/2011/04/miso-ramen-recipe-feature-20912.jpg",
-      "rating": "8",
-      "comment": "This ramen is the bomb. Made in my kitchen (of course).",
-      "id": 6
     }
   ]
 }
